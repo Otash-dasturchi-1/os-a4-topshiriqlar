@@ -139,3 +139,4 @@ PR avtomatik yangilanadi.
 | 2 | Amirqulov Bahromjon | SRM002-2 | Mini Shell (Sodda buyruqlar interpretatori) | https://github.com/AmirqulovBaxromjon/os-a4-amirqulov |
 | 4 | Homidov Abdukamol | SRM002-2 | TURBO JANG! — 3D poyga va parkovka o'yini | https://github.com/Abdukamol0870/os-a4-homidov |
 | 5 | Ravshanov Rustamjon | SRM002-2 | Ilon arenasi (o'yin) | https://github.com/Rustam0614/os-a4-ravshanov |
+| 6 | Amirov Otabek | SMR001-3 | Fayl deskriptorlari (open, read, write, close) asosida log analizatori | https://github.com/Otash-dasturchi-1/os-a4-amirov |
